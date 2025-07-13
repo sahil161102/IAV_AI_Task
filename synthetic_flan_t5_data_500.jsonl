@@ -1,0 +1,500 @@
+{"input": "create a scatter plot showing the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a line plot based on the engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a line plot based on the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a histogram for engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a bar chart of fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a line plot showing the battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a box plot of fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a line plot with fuel pressure data", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a bar chart showing the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "generate a box plot based on the battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a histogram of battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a line plot of fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a box plot based on the fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a bar chart chart of fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a box plot chart of battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "a bar chart of the engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "a histogram of the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a line plot for fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a scatter plot based on the engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a histogram chart of engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a bar chart of engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "a line plot of the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a bar chart chart of engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a box plot showing the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a line plot showing the battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "create a scatter plot showing the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "display a line plot of fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a line plot with fuel pressure data", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a scatter plot chart of fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a box plot with battery voltage data", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "can you draw a scatter plot for the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a scatter plot of the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "visualize fuel pressure using a bar chart", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a box plot chart of engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a box plot for engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a bar chart for fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a histogram of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a scatter plot based on the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a scatter plot of the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "visualize engine speed using a line plot", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize engine speed using a box plot", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "a box plot of the fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a histogram of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a box plot chart of engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a bar chart for battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "show me a bar chart for engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a scatter plot chart of fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a line plot for fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a bar chart showing the engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a scatter plot showing the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "show me a histogram for battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "plot a bar chart with battery voltage data", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "plot a histogram with engine speed data", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "plot a scatter plot with engine speed data", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a scatter plot for fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a histogram showing the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "visualize engine speed using a box plot", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize engine speed using a line plot", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a histogram showing the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize battery voltage using a scatter plot", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "can you draw a box plot for the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a line plot for fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a histogram with engine speed data", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "a scatter plot of the engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "can you draw a line plot for the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a histogram chart of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a line plot based on the battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "a bar chart of the engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "a scatter plot of the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "visualize engine speed using a line plot", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "plot a bar chart with battery voltage data", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "give me a box plot chart of engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a histogram of engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "can you draw a line plot for the battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "can you draw a box plot for the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize battery voltage using a box plot", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "display a scatter plot of battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "give me a bar chart chart of battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "show me a line plot for engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a line plot for engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a histogram chart of engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a histogram of battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "plot a scatter plot with fuel pressure data", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a bar chart for fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a scatter plot of fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a histogram of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a scatter plot chart of battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "create a box plot showing the fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a bar chart with engine speed data", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "can you draw a line plot for the battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "display a histogram of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a scatter plot of the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a scatter plot of fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a bar chart showing the fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a bar chart of the fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a scatter plot of battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "create a line plot showing the engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a bar chart showing the engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a bar chart for fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a histogram of the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a scatter plot for the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "create a box plot showing the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a scatter plot chart of battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "create a histogram showing the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a box plot showing the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "can you draw a histogram for the battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "plot a histogram with fuel pressure data", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a box plot for the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a box plot chart of engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "a bar chart of the fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a scatter plot with battery voltage data", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "display a scatter plot of fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a scatter plot for the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a histogram chart of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a scatter plot of the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a bar chart of the engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "a histogram of the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a line plot of fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a line plot of fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a box plot based on the battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "a box plot of the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize engine speed using a histogram", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "I want to see a bar chart of battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "give me a scatter plot chart of battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "can you draw a scatter plot for the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a box plot of the battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "generate a bar chart based on the engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a box plot showing the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "plot a histogram with fuel pressure data", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a histogram for the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a histogram based on the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a histogram based on the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a box plot of fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a bar chart showing the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "show me a scatter plot for fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a scatter plot of the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "create a box plot showing the battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "give me a line plot chart of engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize battery voltage using a box plot", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "show me a bar chart for battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a histogram of engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "can you draw a line plot for the engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a box plot based on the battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "give me a bar chart chart of battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a line plot of fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a bar chart with engine speed data", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a bar chart of engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a scatter plot of battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "create a bar chart showing the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "show me a histogram for fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a bar chart with engine speed data", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "can you draw a box plot for the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize battery voltage using a line plot", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "can you draw a line plot for the battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "display a line plot of engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a line plot of fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a line plot chart of engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a histogram showing the battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "plot a scatter plot with fuel pressure data", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a bar chart for the fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a histogram with engine speed data", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "plot a histogram with battery voltage data", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "create a bar chart showing the engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a histogram of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a box plot chart of fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a scatter plot for the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "show me a box plot for battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "create a box plot showing the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a scatter plot chart of fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a histogram for the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "plot a box plot with fuel pressure data", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a scatter plot for battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "give me a line plot chart of battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "plot a histogram with fuel pressure data", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a bar chart based on the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "a line plot of the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a box plot showing the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a box plot showing the battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "give me a box plot chart of battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "give me a histogram chart of engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize engine speed using a bar chart", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "a box plot of the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "plot a scatter plot with fuel pressure data", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a histogram of engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a scatter plot of fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a histogram of engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a histogram showing the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "I want to see a scatter plot of fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "visualize engine speed using a box plot", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a scatter plot showing the engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a box plot for fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a scatter plot for fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "visualize fuel pressure using a box plot", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a line plot chart of battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "give me a histogram chart of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a scatter plot of battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "give me a histogram chart of battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "give me a line plot chart of fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a scatter plot with battery voltage data", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "visualize battery voltage using a box plot", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "generate a scatter plot based on the engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize battery voltage using a bar chart", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a scatter plot of battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "plot a line plot with engine speed data", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a box plot chart of engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a histogram for battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "plot a scatter plot with fuel pressure data", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a bar chart of the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "display a histogram of battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "display a histogram of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a box plot of engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "a line plot of the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a histogram of battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "plot a box plot with battery voltage data", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "plot a box plot with fuel pressure data", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a histogram showing the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a scatter plot based on the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "a line plot of the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a box plot of battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "show me a box plot for battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a line plot of fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a histogram for the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a histogram of battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a line plot of battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "display a box plot of engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a scatter plot based on the engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a line plot of engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a bar chart chart of battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "visualize engine speed using a box plot", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "can you draw a scatter plot for the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a box plot of the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "I want to see a bar chart of fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a scatter plot for fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a line plot based on the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a scatter plot for engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "plot a box plot with engine speed data", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a box plot based on the fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a line plot of battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "generate a line plot based on the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a line plot based on the engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a box plot for engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a scatter plot showing the engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a histogram of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a line plot with engine speed data", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a line plot of engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "I want to see a histogram of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a bar chart of fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a scatter plot of the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "create a box plot showing the fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a line plot of fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a bar chart of the engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a box plot showing the battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "visualize fuel pressure using a line plot", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a line plot of engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a scatter plot of battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "create a scatter plot showing the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a bar chart of engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a box plot based on the battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "create a histogram showing the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a line plot chart of fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a box plot of the fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a box plot for the battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "a scatter plot of the engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a line plot of battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a box plot of engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize fuel pressure using a line plot", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a bar chart based on the fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a line plot showing the battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "show me a scatter plot for fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a scatter plot for fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a line plot for engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a line plot chart of battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "create a histogram showing the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a line plot showing the engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "I want to see a box plot of engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "can you draw a box plot for the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "can you draw a bar chart for the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "can you draw a histogram for the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a histogram based on the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a box plot showing the battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "display a scatter plot of engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a histogram chart of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a bar chart of the fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a scatter plot showing the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "a bar chart of the engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a box plot based on the battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "generate a bar chart based on the fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a histogram for the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "can you draw a scatter plot for the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "display a line plot of battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "give me a scatter plot chart of fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a bar chart chart of fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a bar chart with engine speed data", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "a line plot of the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a scatter plot for fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a histogram showing the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a scatter plot of battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "display a histogram of battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "create a bar chart showing the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "visualize fuel pressure using a line plot", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a bar chart of the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "generate a bar chart based on the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "create a histogram showing the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a scatter plot based on the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "generate a histogram based on the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "plot a line plot with fuel pressure data", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a box plot showing the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a bar chart of fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "visualize battery voltage using a box plot", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "show me a histogram for fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "visualize battery voltage using a scatter plot", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a bar chart of fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a line plot for the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a line plot with fuel pressure data", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a box plot based on the fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a box plot for the battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "a scatter plot of the engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize battery voltage using a scatter plot", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "a box plot of the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "a histogram of the battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "visualize engine speed using a bar chart", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "I want to see a histogram of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a histogram with battery voltage data", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "a bar chart of the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "a bar chart of the engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a box plot for fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a bar chart chart of battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "display a line plot of engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a histogram showing the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a scatter plot of engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize engine speed using a bar chart", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a box plot chart of battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a box plot of engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize fuel pressure using a box plot", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a line plot based on the battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "display a histogram of engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a bar chart chart of engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "I want to see a histogram of engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a scatter plot for fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a scatter plot for battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "plot a scatter plot with fuel pressure data", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a scatter plot based on the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a scatter plot of fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a bar chart for the fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a line plot showing the engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a box plot for fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "visualize battery voltage using a bar chart", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "plot a line plot with engine speed data", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "I want to see a line plot of engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize fuel pressure using a box plot", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a bar chart for the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "plot a scatter plot with engine speed data", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "plot a scatter plot with fuel pressure data", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a line plot showing the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a line plot of battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "give me a histogram chart of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a bar chart with engine speed data", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a histogram showing the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a histogram chart of battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a bar chart of battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "give me a histogram chart of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a scatter plot of battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a bar chart of battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "can you draw a histogram for the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a histogram chart of battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "give me a line plot chart of fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a scatter plot of the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "a scatter plot of the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "give me a histogram chart of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a line plot for engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a bar chart based on the fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a scatter plot for battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "plot a box plot with engine speed data", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "I want to see a box plot of fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a bar chart of the engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a scatter plot for battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "a scatter plot of the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a scatter plot chart of battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "a box plot of the fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a box plot with fuel pressure data", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a box plot with engine speed data", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a histogram based on the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "I want to see a histogram of battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "plot a bar chart with engine speed data", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a scatter plot showing the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a line plot chart of fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a box plot for battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "visualize engine speed using a box plot", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "a box plot of the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a box plot chart of battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "a box plot of the fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a histogram with engine speed data", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a scatter plot chart of engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a scatter plot chart of fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "visualize fuel pressure using a line plot", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a bar chart chart of engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "a line plot of the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a box plot of battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "give me a box plot chart of fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a box plot for fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a scatter plot for the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a histogram of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a bar chart of battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "plot a histogram with battery voltage data", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a bar chart of battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "generate a histogram based on the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a line plot chart of fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a scatter plot for fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "visualize battery voltage using a scatter plot", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "show me a scatter plot for battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "generate a scatter plot based on the engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a bar chart for fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a scatter plot of fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a line plot for the battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "show me a bar chart for fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a bar chart showing the engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "a scatter plot of the engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "display a box plot of fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a line plot with battery voltage data", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "display a histogram of battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "can you draw a histogram for the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a bar chart based on the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "can you draw a scatter plot for the battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "a bar chart of the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a bar chart of engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a line plot showing the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a scatter plot for battery voltage", "output": {"Method": "scatter plot", "Attribute": "Eng_uBatt"}}
+{"input": "I want to see a box plot of battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "visualize battery voltage using a line plot", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "show me a scatter plot for fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a histogram for the battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "generate a histogram based on the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a bar chart for the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "give me a box plot chart of engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize battery voltage using a box plot", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "show me a bar chart for fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a histogram for fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a histogram showing the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a bar chart for battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "can you draw a line plot for the engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "a histogram of the battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "plot a line plot with fuel pressure data", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "I want to see a histogram of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a bar chart chart of fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a scatter plot based on the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "visualize fuel pressure using a bar chart", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "create a histogram showing the battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "plot a histogram with battery voltage data", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "show me a bar chart for engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a line plot for battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "show me a line plot for fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "show me a histogram for engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "I want to see a box plot of engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "I want to see a histogram of fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a box plot chart of engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a box plot chart of battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "plot a bar chart with fuel pressure data", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a bar chart for the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "generate a bar chart based on the engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "can you draw a histogram for the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a bar chart for fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a bar chart of the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "generate a bar chart based on the fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a box plot chart of battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "can you draw a line plot for the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "plot a box plot with engine speed data", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a histogram based on the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a line plot chart of engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a bar chart chart of engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a scatter plot chart of engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a line plot showing the fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a bar chart chart of engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a box plot chart of engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a scatter plot chart of engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a line plot based on the battery voltage", "output": {"Method": "line plot", "Attribute": "Eng_uBatt"}}
+{"input": "show me a scatter plot for engine speed", "output": {"Method": "scatter plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "show me a bar chart for battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "create a line plot showing the engine speed", "output": {"Method": "line plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a box plot based on the battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "create a histogram showing the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a box plot based on the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "can you draw a histogram for the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a box plot based on the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "plot a box plot with engine speed data", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a histogram showing the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "give me a bar chart chart of engine speed", "output": {"Method": "bar chart", "Attribute": "Eng_nEng10ms"}}
+{"input": "visualize engine speed using a box plot", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "give me a line plot chart of fuel pressure", "output": {"Method": "line plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "generate a histogram based on the battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
+{"input": "can you draw a box plot for the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "create a box plot showing the fuel pressure", "output": {"Method": "box plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a histogram of the engine speed", "output": {"Method": "histogram", "Attribute": "Eng_nEng10ms"}}
+{"input": "generate a bar chart based on the battery voltage", "output": {"Method": "bar chart", "Attribute": "Eng_uBatt"}}
+{"input": "show me a bar chart for fuel pressure", "output": {"Method": "bar chart", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "can you draw a histogram for the fuel pressure", "output": {"Method": "histogram", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "display a scatter plot of fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a box plot of the battery voltage", "output": {"Method": "box plot", "Attribute": "Eng_uBatt"}}
+{"input": "create a scatter plot showing the fuel pressure", "output": {"Method": "scatter plot", "Attribute": "FuSHp_pRailBnk1"}}
+{"input": "a box plot of the engine speed", "output": {"Method": "box plot", "Attribute": "Eng_nEng10ms"}}
+{"input": "a histogram of the battery voltage", "output": {"Method": "histogram", "Attribute": "Eng_uBatt"}}
