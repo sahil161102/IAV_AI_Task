@@ -10,7 +10,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import uuid
 import re
-
+import numpy as np
 app = FastAPI()
 
 # Load model once
@@ -47,7 +47,13 @@ def parse_output_string(s):
 
 def generate_plot_and_stats(df, attribute, method):
     data = df["value"]
-    timestamps = df["timestamp"]
+    time = df["timestamp"]
+
+    # Compute duration between samples
+    if len(time) > 1:
+        time_deltas = time.diff().fillna(0)
+    else:
+        time_deltas = [1] * len(data)  # fallback if only one point
 
     summary = {
         "mean": round(data.mean(), 3),
@@ -58,33 +64,52 @@ def generate_plot_and_stats(df, attribute, method):
     }
 
     filename = f"{uuid.uuid4().hex}.png"
-    filepath = os.path.join(UPLOAD_DIR, filename)
+    filepath = os.path.join("uploads", filename)
 
     plt.figure(figsize=(10, 6))
     method = method.lower()
 
     if method == "histogram":
-        plt.hist(data, bins=50, color='skyblue', edgecolor='black')
-        plt.xlabel(attribute)
+        # Bin edges
+        bins = 50
+        bin_values, bin_edges = np.histogram(data, bins=bins)
+
+        # Map each value to its bin duration using time_deltas
+        bin_indices = np.digitize(data, bin_edges[:-1], right=False)
+        duration_per_bin = [0] * bins
+
+        for i in range(len(data)):
+            idx = bin_indices[i] - 1
+            if 0 <= idx < bins:
+                duration_per_bin[idx] += time_deltas.iloc[i]
+
+        # Plot duration vs. bin centers
+        bin_centers = (bin_edges[:-1] + bin_edges[1:]) / 2
+        plt.bar(bin_centers, duration_per_bin, width=bin_edges[1]-bin_edges[0], edgecolor='black', color='skyblue')
+        plt.ylabel("Duration [s]")
+
     elif method == "line plot":
-        plt.plot(timestamps, data, color='blue')
-        plt.xlabel("Time (s)")
+        plt.plot(time, data, color='blue')
+        plt.xlabel("Time [s]")
+        plt.ylabel(attribute)
+
     elif method == "bar chart":
-        # Bar chart with timestamps as x-axis may be unreadable if there are many points
-        # So either plot limited values or keep as index-based bar chart
-        plt.bar(range(len(data)), data, color='orange')
-        plt.xlabel("Sample Index")
+        data.plot(kind='bar', color='orange')
+        plt.ylabel(attribute)
+
     elif method == "scatter plot":
-        plt.scatter(timestamps, data, alpha=0.6)
-        plt.xlabel("Time (s)")
+        plt.scatter(time, data, alpha=0.6)
+        plt.xlabel("Time [s]")
+        plt.ylabel(attribute)
+
     elif method == "box plot":
         plt.boxplot(data)
-        plt.xlabel(attribute)
+        plt.ylabel(attribute)
+
     else:
         return None, None
 
     plt.title(f"{method.title()} of {attribute}")
-    plt.ylabel(attribute)
     plt.grid(True)
     plt.tight_layout()
     plt.savefig(filepath)
